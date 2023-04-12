@@ -1,5 +1,9 @@
 ![Hello, its Naz](./HelloWorld.svg)
 
+[check out CV](./res.pdf)
+-[emopji add ](mailto:iremnaz.celen@nyu.edu)
+-[facebook](https://facebook.com)
+
 <!--
 **irem-naz/irem-naz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
