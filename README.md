@@ -11,13 +11,13 @@ e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
 # ⚡ Projects
 
 ### Object-oriented Programming
-RentIt: Home rental system, with full fledged renter and rentee interface coded using *C++* language with object oriented programming principles such as polymorphism.
+[RentIt](https://github.com/irem-naz/RentIt): Home rental system, with full fledged renter and rentee interface coded using *C++* language with object oriented programming principles such as polymorphism.
 ### Interactive Media in Experiences and Games
 [Self/Love](https://github.com/irem-naz/Self-Love): An interactive experience of love for another that strips the person's own self love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
 
-Battleship: battleship game leisure design using *Python*.
+[Battleship](https://github.com/irem-naz/Battleship): battleship game leisure design using *Python*.
 ### M5Stack and Arduino Physical Computing
-StesStrap: A strap that is coded on *Arduino IDE* for stress management where the user is asked to rate their current situation, and accordingly different attention tests are prompted. Depending on the results, information for contacts and aid videos are prompted on user's phone through *Bluetooth*.
+[StesStrap](https://github.com/irem-naz/StresStrap): A strap that is coded on *Arduino IDE* for stress management where the user is asked to rate their current situation, and accordingly different attention tests are prompted. Depending on the results, information for contacts and aid videos are prompted on user's phone through *Bluetooth*.
 ### iGEM
 NYUAD iGEM Wiki: wiki page in the process of being developed for the NYUAD iGEM 2023 team using *HTML, JS* and *CSS.*
 
