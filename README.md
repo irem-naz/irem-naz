@@ -13,7 +13,7 @@ e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
 ### Object-oriented Programming
 RentIt: Home rental system, with full fledged renter and rentee interface coded using *C++* language with object oriented programming principles such as polymorphism.
 ### Interactive Media in Experiences and Games
-Self/Love: An interactive experience of love for another that strips the person's own self love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
+[Self/Love](https://github.com/irem-naz/Self-Love): An interactive experience of love for another that strips the person's own self love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
 
 Battleship: battleship game leisure design using *Python*.
 ### M5Stack and Arduino Physical Computing
