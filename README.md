@@ -1,7 +1,7 @@
 ![Hello, its Naz](./HelloWorld.svg)
 
 # 💬 About me
-My name is Irem Naz Celen (she/her), a junior majoring in Computer Engineering and minoring in Interactive Media at New York University Abu Dhabi. My interest areas currently lie in physical computing, interactive installations, machine learning and web development, with social focus on female health, woman's representation in STEM, socio-economic divide, mindful and sustainable policies.
+My name is Irem Naz Celen (she/her), a junior majoring in Computer Engineering and minoring in Interactive Media at New York University Abu Dhabi. My interest areas currently lie in physical computing and interactive installations, machine learning and software development, with social focus on female health, woman's representation in STEM, socio-economic divide, mindful and sustainable policies.
 
 [You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV%20-%20Irem%20Naz%20Celen%20(1).pdf)
 
