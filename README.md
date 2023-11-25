@@ -32,7 +32,7 @@ As part of [A Ticket For Your Future](https://www.arcelikglobal.com/en/company/h
 
 # 🌱 Campus Involvement & Jobs
 
-### weSTEM 
+### weSTEM (Women in STEM)
 Current Head of Outreach, working on the campus events as well as planning outreach events by leading a team of 3. Recently organized a trip to GITEX 2023 conference, in contact with Hub71 in order to visit and connect our campus, working with NYUAD Community Outreach on the Electric Vehicle Grand Prix (EVGP) project since November 25, 2023. 
 ### weSTEM High School Conference 2023
 Head of Partnerships, scouting and maintaining communication with the speakers of the event that will take place in April 30th, 2023. Speakers range such as NYUAD post-docs, students, leading female figure in Tech and NYUAD, Professor Hoda Al Khzaimi.
