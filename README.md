@@ -19,7 +19,7 @@ As part of [A Ticket For Your Future](https://www.arcelikglobal.com/en/company/h
 ### Interactive Media in Experiences and Games 
 [Self/Love](https://github.com/irem-naz/Self-Love): An interactive experience of love for another that strips the person's own self-love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
 
-The Journey: This is an interactive storytelling experience that is facilitated through Arduino and P5JS. The pressure sensors are placed under 5 segments of a circle placed on the floor where the participant uses an iPad to receive the visual response to their steps/journey on the circle. The audio accompaniment also exists. This experience digs into the 5 stages of a Hero's Journey by making it relatable and connected to our everyday lives through simple allegories, and carries the participant through its story.
+[The Journey](https://editor.p5js.org/iremnaz/full/pTepSSWgy): This is an interactive storytelling experience that is facilitated through Arduino and P5JS. The pressure sensors are placed under 5 segments of a circle placed on the floor where the participant uses an iPad to receive the visual response to their steps/journey on the circle. The audio accompaniment also exists. This experience digs into the 5 stages of a Hero's Journey by making it relatable and connected to our everyday lives through simple allegories, and carries the participant through its story.
 
 [Battleship](https://github.com/irem-naz/Battleship): battleship game leisure design using *Python*.
 
