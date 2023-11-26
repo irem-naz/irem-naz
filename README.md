@@ -16,7 +16,7 @@ e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
 As a 2023 [Equitech Scholar](https://www.equitechfutures.com/program/esp) I have worked on a data analysis project that delved into understanding the relationship between the perception of gender in societies across the world in 74 countries across 10 years, and its relationship to women's participation in parliament, economy and more. As part of this project I have self studied python for data analysis libraries such as pandas, numpy, seaborn, matplotlib etc.
 ### Budget Bites
 As part of [A Ticket For Your Future](https://www.arcelikglobal.com/en/company/human-resources/a-ticket-for-your-future/) 2023 program that is led by a global and a prominent Turkish company, Arcelik (Beko) Global, I worked on a conceptual project that utilizes machine learning, behavioral analysis and cloud computing principles to bring nearly expiring groceries in chain markets to kitchen with fellow students. 
-### Object-oriented Programming 
+### Object-Oriented Programming 
 [RentIt](https://github.com/irem-naz/RentIt): Home rental system, with full fledged renter and rentee interface coded using *C++* language with object oriented programming principles such as polymorphism.
 ### Interactive Media in Experiences and Games 
 [Self/Love](https://github.com/irem-naz/Self-Love): An interactive experience of love for another that strips the person's own self-love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
