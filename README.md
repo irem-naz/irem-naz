@@ -5,7 +5,7 @@ My name is Irem Naz Celen, a senior majoring in Computer Engineering and minorin
 
 **Relevant Classes:** *open source software engineering, introduction to machine learning, computer organization and architecture, operating systems, data structures and algorithms, oop, cinematography, introduction to interactive media and more!*
 
-## [You can check out my Interactive Art Portfolio here~](Art Portfolio - Naz.pdf)
+## [You can check out my Interactive Art Portfolio here~](https://github.com/irem-naz/irem-naz/blob/main/Art%20Portfolio%20-%20Naz.pdf)
 
 
 ## *[You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV%20-%20Irem%20Naz%20Celen%20(1).pdf)*
