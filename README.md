@@ -8,7 +8,7 @@ My name is Irem Naz Celen, a senior majoring in Computer Engineering and minorin
 ## [You can check out my Interactive Art Portfolio here~](https://github.com/irem-naz/irem-naz/blob/main/Art%20Portfolio%20-%20Naz.pdf)
 
 
-## *[You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV%20-%20Irem%20Naz%20Celen%20(1).pdf)*
+## [You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV_Naz.pdf)
 
 ## 📫 Contact details
 e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
