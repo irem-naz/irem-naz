@@ -13,6 +13,13 @@ My name is Irem Naz Celen, and I recently graduated with major in Computer Engin
 ## 📫 Contact details
 e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
 
+# Projects hosted here..
 
+[Data Analysis Case Study - other work can not be publicly shown due to privacy restrictions](https://colab.research.google.com/drive/1dwgPxQj6bj_E5EyqRxuNP7Al-xnfewOJ?usp=sharing)
+[StartAD Data Infographic Example: Data Cleanin/Analysis/Visualization Done for Public Distribution](https://www.canva.com/design/DAGrbpi3hKM/ZL3ab6OHLOIrlkMECG-xQQ/edit)
+[MedBox Genie](https://github.com/irem-naz/MedBox-Genie)
+[Multi-GPU Acceleration for Low Level ML Algorithms](https://github.com/irem-naz/MultiGpu-Exploration)
+[LoveFreq: Interactive Audio-scape Website Build](https://github.com/abdelrahmankhater2/lovefreq)
+[Afternoon Nap: Interactive Film Produced and Hosted in the Developed Website](https://github.com/irem-naz/afternoon-nap)
 
 
