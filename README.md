@@ -8,7 +8,7 @@ My name is Irem Naz Celen, and I recently graduated with major in Computer Engin
 ## [You can check out my Interactive Art Portfolio here~](https://www.figma.com/proto/2zZoRyFWrosb4ZRVZB5mg8/Portfolio---Naz-New-Edition?node-id=0-242&p=f&t=uoVchTPEtIHhUX4C-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 
-## [You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV_Naz.pdf)
+## [You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/Irem_Naz_Celen_Resume.pdf)
 
 ## 📫 Contact details
 e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
