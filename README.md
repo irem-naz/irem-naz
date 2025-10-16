@@ -1,11 +1,11 @@
 ![Hello, its Naz](./HelloWorld.svg)
 
 # 💬 About me
-My name is Irem Naz Celen, a senior majoring in Computer Engineering and minoring in Interactive Media at New York University Abu Dhabi. My interest areas currently lie in physical computing and interactive installations, machine learning, and software development, with a social focus on female health, women's representation in STEM, and mindfulness. I'm always ready to take on new endeavors! For example, I'm currently learning in studio and outside professional filmmaking!
+My name is Irem Naz Celen, and I recently graduated with major in Computer Engineering and minoring in Interactive Media at New York University Abu Dhabi. My interest areas currently lie in physical computing and interactive installations, machine learning, and software development, with a social focus on female health, women's representation in STEM, and mindfulness. I'm always ready to take on new endeavors! For example, I'm currently learning in studio and outside professional filmmaking!
 
 **Relevant Classes:** *open source software engineering, introduction to machine learning, computer organization and architecture, operating systems, data structures and algorithms, oop, cinematography, introduction to interactive media and more!*
 
-## [You can check out my Interactive Art Portfolio here~](https://github.com/irem-naz/irem-naz/blob/main/Art%20Portfolio%20-%20Naz.pdf)
+## [You can check out my Interactive Art Portfolio here~](https://www.figma.com/proto/2zZoRyFWrosb4ZRVZB5mg8/Portfolio---Naz-New-Edition?node-id=0-242&p=f&t=uoVchTPEtIHhUX4C-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 
 ## [You can check out my CV here!](https://github.com/irem-naz/irem-naz/blob/main/CV_Naz.pdf)
@@ -13,7 +13,7 @@ My name is Irem Naz Celen, a senior majoring in Computer Engineering and minorin
 ## 📫 Contact details
 e-mail: [iremnaz.celen@nyu.edu](mailto:iremnaz.celen@nyu.edu)
 
-# ⚡ Projects
+# ⚡ Projects hosted here..
 
 ### Gender Disparity Project Summer 2023
 As a 2023 [Equitech Scholar](https://www.equitechfutures.com/program/esp) I have worked on a data analysis project that delved into understanding the relationship between the perception of gender in societies across the world in 74 countries across 10 years, and its relationship to women's participation in parliament, economy and more. As part of this project I have self studied python for data analysis libraries such as pandas, numpy, seaborn, matplotlib etc.
@@ -25,8 +25,6 @@ As part of [A Ticket For Your Future](https://www.arcelikglobal.com/en/company/h
 [Self/Love](https://github.com/irem-naz/Self-Love): An interactive experience of love for another that strips the person's own self-love away facilitated through the experience of 3 distinct rooms created in *P5.JS*.
 
 [The Journey](https://editor.p5js.org/iremnaz/full/pTepSSWgy): This is an interactive storytelling experience that is facilitated through Arduino and P5JS. The pressure sensors are placed under 5 segments of a circle placed on the floor where the participant uses an iPad to receive the visual response to their steps/journey on the circle. The audio accompaniment also exists. This experience digs into the 5 stages of a Hero's Journey by making it relatable and connected to our everyday lives through simple allegories, and carries the participant through its story.
-
-[Battleship](https://github.com/irem-naz/Battleship): battleship game leisure design using *Python*.
 
 
 ### M5Stack and Arduino Physical Computing
